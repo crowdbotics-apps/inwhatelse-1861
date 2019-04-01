@@ -1,0 +1,3 @@
+rootProject.name = 'inwhatelse_1861'
+
+include ':app'
